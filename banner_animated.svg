@@ -17,7 +17,7 @@
     <animate attributeName="opacity" values="1;0.5;1" dur="1.8s" repeatCount="indefinite"/>
   </text>
   <text x="450" y="100" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="19" fill="#a0c4ff">
-    <tspan>yang kebetulan bisa coding (wibu)</tspan>
+    <tspan>yang kebetulan bisa coding</tspan>
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="2s" repeatCount="indefinite"/>
   </text>
 </svg>
