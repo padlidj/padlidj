@@ -5,23 +5,9 @@
     </linearGradient>
   </defs>
   <rect width="900" height="200" rx="20" fill="url(#qbg)"/>
-  <text x="450" y="42" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#f9ca24" letter-spacing="3">📜 QUOTES HARI INI</text>
-
-  <!-- quote 1 -->
-  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="34" font-weight="800" fill="#ffffff" opacity="0">
-    "Wee Woo"
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
-  </text>
-
-  <!-- quote 2 -->
-  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#ffffff" opacity="0">
+  <text x="450" y="55" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#f9ca24" letter-spacing="3">📜 QUOTES HARI INI</text>
+  <text x="450" y="130" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="30" font-weight="800" fill="#ffffff">
     "Wi wok de tok not only tok de tok"
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" begin="3s" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
-  </text>
-
-  <!-- quote 3 -->
-  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#ffffff" opacity="0">
-    "Jangan Lupa Bahagia"
-    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" begin="6s" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
   </text>
 </svg>
