@@ -1,41 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
   <defs>
     <linearGradient id="qbg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#2c2c54"/><stop offset="100%" stop-color="#30336b"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="220" rx="20" fill="url(#qbg)"/>
-  <text x="450" y="40" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14" font-weight="600" fill="#f9ca24" letter-spacing="3">📜 QUOTES JOKOWI (ALIAS PESANKU BUAT KAMU)</text>
+  <rect width="900" height="200" rx="20" fill="url(#qbg)"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14" font-weight="600" fill="#f9ca24" letter-spacing="3">📜 QUOTES JOKOWI</text>
 
-  <!-- quote 1 -->
-  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff" opacity="0">
+  <!-- quote 1: slot 0-3s -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="30" font-weight="800" fill="#ffffff" opacity="0">
     "Wee Woo"
-    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
   </text>
-  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
+  <text x="450" y="142" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
     — Jokowi
-    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
   </text>
 
-  <!-- quote 2 -->
+  <!-- quote 2: slot 3-6s -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="21" font-weight="700" fill="#ffffff" opacity="0">
+    "Wok de tok... bukan cuma tok de tok"
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" begin="3s" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
+  </text>
+  <text x="450" y="142" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
+    — Jokowi
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" begin="3s" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
+  </text>
+
+  <!-- quote 3: slot 6-9s -->
   <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff" opacity="0">
-    "Dag Dig Dug"
-    <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="2s"/>
-  </text>
-  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
-    — Jokowi (jantung deg-degan)
-    <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="2s"/>
-  </text>
-
-  <!-- quote 3 -->
-  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#ffffff" opacity="0">
     "Jangan Lupa Bahagia"
-    <animate attributeName="opacity" values="0;0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" begin="6s" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
   </text>
-  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
+  <text x="450" y="142" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
     — Jokowi
-    <animate attributeName="opacity" values="0;0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" begin="6s" keyTimes="0;0.04;0.30;0.34;1" values="0;1;1;0;0"/>
   </text>
 
-  <text x="450" y="190" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#636e72">*quote bermutu tinggi, dijamin bikin baper</text>
+  <text x="450" y="180" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#636e72">*quote beneran dijamin viral</text>
 </svg>
