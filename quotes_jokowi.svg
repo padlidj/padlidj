@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="qbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c2c54"/><stop offset="100%" stop-color="#30336b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="20" fill="url(#qbg)"/>
+  <text x="450" y="40" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14" font-weight="600" fill="#f9ca24" letter-spacing="3">📜 QUOTES JOKOWI (ALIAS PESANKU BUAT KAMU)</text>
+
+  <!-- quote 1 -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff" opacity="0">
+    "Wee Woo"
+    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+  </text>
+  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
+    — Jokowi
+    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+  </text>
+
+  <!-- quote 2 -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff" opacity="0">
+    "Dag Dig Dug"
+    <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="2s"/>
+  </text>
+  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
+    — Jokowi (jantung deg-degan)
+    <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="2s"/>
+  </text>
+
+  <!-- quote 3 -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#ffffff" opacity="0">
+    "Jangan Lupa Bahagia"
+    <animate attributeName="opacity" values="0;0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="4s"/>
+  </text>
+  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a29bfe" opacity="0">
+    — Jokowi
+    <animate attributeName="opacity" values="0;0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="4s"/>
+  </text>
+
+  <text x="450" y="190" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#636e72">*quote bermutu tinggi, dijamin bikin baper</text>
+</svg>
