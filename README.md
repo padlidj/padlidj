@@ -29,7 +29,7 @@
 ## 🛠️ Senjata Perang (katanya)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git,nginx,postgres,redis,fastapi,telegram" />
 </p>
 
 <p align="center"><i>jago di StackOverflow, minder di depan interviewer 🥲</i></p>
