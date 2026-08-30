@@ -32,7 +32,14 @@
   <img src="https://skillicons.dev/icons?i=python,bash,git,linux,vscode,regex" />
 </p>
 
-<p align="center"><i>jago bikin script buat males ngerjain manual, ujung-ujungnya lebih lama debug scriptnya 🥲</i></p>
+| Tool | Fungsi Asli | Fungsi Sehari-hari |
+|:---:|---|---|
+| 🐍 Python | automation, scripting | nyariin script biar males kerja manual |
+| 🖥️ Bash | jalanin script | copas command dari StackOverflow |
+| 🌿 Git | version control | tempat nyimpen dosa commit: fix bug lagi |
+| 🐧 Linux | OS produktif | biar keliatan hacker pas ngetik ls -la |
+| 📝 VS Code | ngoding | tempat nyimpen 47 tab yang gak jadi dibaca |
+| 🔍 Regex | pattern matching | 1 baris kode, 3 jam mikir, gak jadi paham |
 
 ---
 
@@ -85,6 +92,7 @@
   <b>sugoi</b> — makasih udah scroll sampe sini, dikira bakal nemu portfolio serius ya? 🗿<br>
   <sub>⭐ kalau lu tersasar ke sini gara-gara nyari developer beneran, tenang, gua juga bingung 😭</sub>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 </p>
