@@ -29,10 +29,10 @@
 ## 🛠️ Senjata Perang (katanya)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git,nginx,postgres,redis,fastapi,telegram" />
+  <img src="https://skillicons.dev/icons?i=python,bash,git,linux,vscode,regex" />
 </p>
 
-<p align="center"><i>jago di StackOverflow, minder di depan interviewer 🥲</i></p>
+<p align="center"><i>jago bikin script buat males ngerjain manual, ujung-ujungnya lebih lama debug scriptnya 🥲</i></p>
 
 ---
 
