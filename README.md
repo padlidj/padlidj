@@ -46,12 +46,12 @@
 ## 📊 Bukti Ngoding (Bukan Ngedit Bio Doang)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=padlidj&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=padlidj&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=padlidj&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlidj&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=padlidj&theme=radical" />
 </p>
 
 ---
